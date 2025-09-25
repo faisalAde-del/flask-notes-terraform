@@ -47,7 +47,7 @@ terraform init
   4. Apply Terraform Configuration
 terraform apply
   5. Access the Application:
-Once deployed, navigate to the provided URL to access the note-taking service http://35.172.111.89:5000/
+Once deployed, navigate to the provided URL to access the note-taking service http://localhost:5000/
 
 🔧 Maintenance & Support
 	•	Monitoring: Utilize AWS CloudWatch for real-time monitoring and alerts.
